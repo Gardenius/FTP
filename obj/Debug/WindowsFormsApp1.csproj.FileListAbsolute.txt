@@ -1,0 +1,8 @@
+E:\VS programy\FTP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\VS programy\FTP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\VS programy\FTP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
